@@ -1,0 +1,18 @@
+.form {
+    width: 80%;
+}
+
+.campo {
+    margin: 6px 0 6px 0;
+}
+
+.formLabel {
+    font-family: var(--fonte-principal);
+}
+
+.formInput {
+    width: 97%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

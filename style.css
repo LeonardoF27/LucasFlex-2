@@ -1,0 +1,78 @@
+@import url("./css/destaque.css");
+@import url("./css/header.css");
+@import url("./css/quantidade-produtos.css");
+@import url("./css/ambientes.css");
+@import url("./css/produtos.css");
+@import url("./css/pergutas-frequentes.css");
+@import url("./css/localizacao.css");
+@import url("./css/rodape.css");
+@import url("./css/quemsomos.css");
+@import url("./css/contato.css");
+@import url("./css/form.css");
+
+:root {
+    --cor-preto: black;
+    --cor-cabeçalho: #343434;
+    --cor-letra: white;
+    --fonte-principal: "Poppins";
+    --cor-do-destaque: rgba(0, 0, 0, 0.5);
+    --cor-do-botao-acionado: rgb(219, 219, 219);
+    --cor-degrade-cinza: rgba(71, 71, 71, 0.801);
+    --cor-botoes: #b7aea5;
+    --cor-sombra: rgba(0, 0, 0, 0.25);
+    --cor-letra-index: #686868ce;
+}
+
+.centraliza {
+    margin: auto;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulos {
+    color: var(--cor-preto);
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+    font-size: 1.7em;
+}
+
+.card {
+	background-color: var(--cor-letra);
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
+	padding: 20px;
+	margin: 20px;
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.card__body-titulo {
+    font-family: var(--fonte-principal);
+	font-size: 24px;
+	margin-bottom: 20px;
+    
+}
+
+.card__imagem {
+	width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.card__body-botao{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: var(--cor-botoes);
+    font-family: var(--fonte-principal);
+    color: white;
+    text-decoration: none;
+}

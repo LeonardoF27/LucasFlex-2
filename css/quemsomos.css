@@ -1,0 +1,45 @@
+.quemsomos {
+    background-color: var(--cor-botoes);
+}
+
+.quemsomos__titulo {
+    margin: 1em 0 .5em 0;
+}
+
+.quemsomos__container {
+    padding: 1em;
+}
+
+.quemsomos__textos {
+    line-height: 1.5em;
+    font-family: var(--fonte-principal);
+    text-align: left;
+}
+
+.quemsomos__lucasClean {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quemsomos__lucasClean-subtitulo {
+    font-family: var(--fonte-principal);
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+/* Falta a imagem */
+
+.quemsomos__lucasClean-button {
+    width: 100px;
+    height: 50px;
+    background-color: var(--cor-cabeçalho);
+    box-shadow: 0px 4px 4px var(--cor-sombra);
+    border: none;
+    color: var(--cor-letra);
+    font-family: var(--fonte-principal);
+    margin-top: 2em;
+}

@@ -1,0 +1,35 @@
+.container__ambientes {
+ text-align: center;
+ margin-top: 5em;
+}
+
+.fundo__ambientes {
+    background-image: url("../img/ambiente.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+}
+
+.container__ambientes-texto {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    background-color: var(--cor-do-destaque);
+    border-radius: 1em;
+    padding: 1em;
+    color: var(--cor-letra);
+}
+
+
+.container__ambientes-lista-item {
+    margin-bottom: 0.7em;
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    background-color: var(--cor-do-destaque);
+    border-radius: 1em;
+    color: var(--cor-letra);
+    padding: 0.3em;
+}

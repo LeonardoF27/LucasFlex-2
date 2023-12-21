@@ -1,0 +1,15 @@
+.contato {
+    background-color: var(--cor-botoes);
+}
+
+.faleConosco {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.faleConosco_Texto {
+    font-size: 15px;
+    margin: 10px;
+    font-family: var(--fonte-principal);
+}
