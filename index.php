@@ -152,7 +152,11 @@
 
 <h1 class="container__localizção_titulo titulos">Localizção</h1>
 
+<div class="localizacao_Maps">
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.7028154969616!2d-46.53167695932383!3d-23.507211459694883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5fcc24330231%3A0x5c663cb0a76a1257!2sLucasflex%20Cortinas%20persianas%20e%20Toldos!5e0!3m2!1spt-BR!2sbr!4v1689989407298!5m2!1spt-BR!2sbr" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
 
 </article>
 

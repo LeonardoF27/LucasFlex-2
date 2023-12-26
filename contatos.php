@@ -11,35 +11,44 @@
 </div>
 
 <div class="form">
-<form action="">
+<form   action="https://formspree.io/f/mknkbvoj"
+  method="POST">
 
 <div class="campo">
-<div><label for="nome" class="formLabel">Nome:</label></div>
-<div><input type="text" name="nome" id="nome" placeholder="Nome completo..." class="formInput"></div>
+
+<div class="formLabel"><label for="nome" class="formLabel">Nome:</label></div>
+<div><input type="text" name="nome" id="nome" placeholder="Nome completo..." class="formInput" required></div>
+
 </div>
 
 <div class="campo">
-<div><label for="email" class="formLabel">Email:</label></div>
-<div><input type="email" name="email" id="email" placeholder="Seu e-mail..." class="formInput"></div>
+
+<div class="formLabel"><label for="email" class="formLabel">Email:</label></div>
+<div><input type="email" name="email" id="email" placeholder="Seu e-mail..." class="formInput" required></div>
+
 </div>
 
 <div class="campo">
-<div><label for="telefone" class="formLabel">Celular:</label></div>
-<div><input type="telefone" name="telefone" id="telefone" maxlength="14" placeholder="Seu celular..." class="formInput"></div>
+
+<div class="formLabel"><label for="telefone" class="formLabel">Celular:</label></div>
+<div><input type="tel" name="telefone" id="telefone" maxlength="14" placeholder="Seu celular..." class="formInput"></div>
+
 </div>
 
 <div class="campo">
-<div><label for="assunto" class="formLabel">Assunto:</label></div>
+
+<div class="formLabel"><label for="assunto" class="formLabel">Assunto:</label></div>
 <div><input type="text" name="assunto" id="assunto" placeholder="Assunto..." class="formInput"></div>
+
 </div>
 
 <div class="campo">
-<div><label for="" class="formLabel">Mensagem:</label></div>
+<div class="formLabel"><label for="" class="formLabel">Mensagem:</label></div>
 <div><textarea name="" id="" cols="30" rows="10" style="height:150px" placeholder="Deixe sua mensagem..." class="formInput"></textarea></div>
 </div>
 
 <div class="campo">
-    <input type="submit" value="Enviar" name="enviar" id="enviar">
+    <input type="submit" value="enviar" name="enviar" id="enviar">
 </div>
 
 </form>

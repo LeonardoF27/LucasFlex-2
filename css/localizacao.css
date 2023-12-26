@@ -1,3 +1,8 @@
+
 .container__localizção_titulo {
-    margin: 2em 0 2em 0;
+    margin: 10px 0 10px 0;
+}
+/* Mapa de localização */
+.localizacao_Maps {
+    margin: 15px 0 15px 0;
 }
