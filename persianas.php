@@ -10,7 +10,7 @@
 <img src="img/destaque-cortina.png" alt="Foto de uma sala com um sofá e atrás uma cortina rolo." class="card__imagem">
 <div class="card__body">
     <h5 class="card__body-titulo">Persiana vertical</h5>
-    <a href="" class="card__body-botao">Saiba Mais</a>
+    <a href="./produtos/persianas/persiana-vertical.php" class="card__body-botao">Saiba Mais</a>
 </div>
 </div>
 
@@ -18,7 +18,7 @@
 <img src="img/destaque-persiana.png" alt="Foto de uma sala com uma Persiana de madeira." class="card__imagem">
 <div class="card__body">
     <h5 class="card__body-titulo">Persiana horizontal 50mm madeira</h5>
-    <a href="" class="card__body-botao">Saiba Mais</a>
+    <a href="./produtos/persianas/persiana-horizontal-50mm-madeira.php" class="card__body-botao">Saiba Mais</a>
 </div>
 </div>
 
@@ -26,7 +26,7 @@
 <img src="img/destaque-toldo.png" alt="Foto de um espaço de laser aberto com toldos em torno." class="card__imagem">
 <div class="card__body">
     <h5 class="card__body-titulo">Persiana horizontal alumínio</h5>
-    <a href="" class="card__body-botao">Saiba Mais</a>
+    <a href="./produtos/persianas/persiana-horizontal-aluminio.php" class="card__body-botao">Saiba Mais</a>
 </div>
 </div>
 
@@ -34,7 +34,7 @@
 <img src="img/destaque-toldo.png" alt="Foto de um espaço de laser aberto com toldos em torno." class="card__imagem">
 <div class="card__body">
     <h5 class="card__body-titulo">Persiana horizontal 50mm bambu</h5>
-    <a href="" class="card__body-botao">Saiba Mais</a>
+    <a href="./produtos/persianas/persiana-horizontal-50mm-bambu.php" class="card__body-botao">Saiba Mais</a>
 </div>
 </div>
 
