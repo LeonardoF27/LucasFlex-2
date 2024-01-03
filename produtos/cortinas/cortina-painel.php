@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -42,3 +44,5 @@ Uma ampla linha de tecidos decorativos e técnicos.
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

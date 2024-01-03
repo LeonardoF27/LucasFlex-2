@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -43,3 +45,5 @@ Opção de imãs no perfil do puxador, possibilitando a fixação em outra estru
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

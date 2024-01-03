@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -43,3 +45,5 @@ A elegância da Persiana de Bambu é garantida através das lâminas de 50 mm, p
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

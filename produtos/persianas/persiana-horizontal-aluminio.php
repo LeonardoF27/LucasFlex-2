@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -43,3 +45,5 @@ Versões lisa ou perfurada. Em comum, oferecem controle da luminosidade e manté
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

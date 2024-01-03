@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -43,3 +45,5 @@ Indicada para vão sem inclinação.
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -41,3 +43,5 @@ Possuem coleções exclusivas com ampla variedade de cores e texturas.</p>
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

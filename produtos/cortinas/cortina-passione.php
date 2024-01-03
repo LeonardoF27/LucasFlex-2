@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -40,3 +42,5 @@ Seu tecido é tecido 100% poliéster, com a combinação das lâminas verticais 
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

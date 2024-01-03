@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -40,3 +42,5 @@ As lâminas são confeccionadas com dois tipos de tecidos,  opaco e translúcido
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

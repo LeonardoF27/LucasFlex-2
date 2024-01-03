@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -40,3 +42,5 @@ Dependendo do local de instalação possibilita 04 tipos de posição. Dando mai
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

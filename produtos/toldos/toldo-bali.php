@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -40,3 +42,5 @@ Braços com medidas de 0,60 - 0,90 - 1,40 e 1,80.
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

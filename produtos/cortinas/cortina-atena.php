@@ -1,4 +1,4 @@
-<?php require '../../inc/cabecalho__produtos.php';?>
+<?php require '../../inc/cabecalhoCortina.php';?>
 
 <main>
 

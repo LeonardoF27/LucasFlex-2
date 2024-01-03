@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -41,3 +43,5 @@ Com uma ampla linha de tecidos decorativo, e técnico, o semi-blackout.
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

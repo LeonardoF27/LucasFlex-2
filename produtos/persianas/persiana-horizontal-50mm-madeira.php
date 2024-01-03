@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -44,3 +46,5 @@ Trilho superior em alumínio revestido com uma lamina de madeira para melhor aca
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

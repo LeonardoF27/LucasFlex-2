@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -42,3 +44,5 @@
 </article>
 
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>

@@ -1,3 +1,5 @@
+<?php require '../../inc/cabecalhoCortina.php';?>
+
 <main>
 
 <article id="AjusteDePaginas">
@@ -40,5 +42,6 @@ Tela solar (Screen) que oferecem proteção contra os raios UV de até 95% e ser
 
 </article>
 
-
 </main>
+
+<?php require '../../inc/rodape__inicial.php';?>
