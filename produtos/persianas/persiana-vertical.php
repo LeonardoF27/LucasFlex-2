@@ -44,4 +44,4 @@ Possuem coleções exclusivas com ampla variedade de cores e texturas.</p>
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

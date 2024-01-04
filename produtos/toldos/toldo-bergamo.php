@@ -43,4 +43,4 @@ Dependendo do local de instalação possibilita 04 tipos de posição. Dando mai
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

@@ -46,4 +46,4 @@ Indicada para vão sem inclinação.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

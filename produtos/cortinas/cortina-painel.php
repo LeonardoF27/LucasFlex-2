@@ -45,4 +45,4 @@ Uma ampla linha de tecidos decorativos e técnicos.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

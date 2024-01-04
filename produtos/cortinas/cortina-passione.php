@@ -43,4 +43,4 @@ Seu tecido é tecido 100% poliéster, com a combinação das lâminas verticais 
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

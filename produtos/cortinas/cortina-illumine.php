@@ -44,4 +44,4 @@ O bandô possui base em alumínio com pintura eletrostática
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

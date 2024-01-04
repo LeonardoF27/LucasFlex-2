@@ -46,4 +46,4 @@ Versões lisa ou perfurada. Em comum, oferecem controle da luminosidade e manté
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

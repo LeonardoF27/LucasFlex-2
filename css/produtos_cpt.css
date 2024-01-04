@@ -1,0 +1,16 @@
+/* Titulos dos pordutos CPT -> Cortina - Persiana - Toldo */
+.titulosCPT {
+    margin: 20px 0 20px 0;
+}
+
+.textosCPT {
+    font-family: var(--fonte-principal);
+}
+
+.iconesCPT {
+    width: 25px;
+}
+
+.negritoCPT {
+    font-weight: 500;
+}

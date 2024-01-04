@@ -45,4 +45,4 @@ Formatos de células de 25 e 38 mm.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

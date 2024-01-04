@@ -44,4 +44,4 @@ Com uma ampla linha de tecidos decorativo, e técnico, o semi-blackout.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

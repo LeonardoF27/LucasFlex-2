@@ -45,4 +45,4 @@ Formatos: 50 mm e 70 mm.</p>
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

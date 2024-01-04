@@ -47,4 +47,4 @@ Trilho superior em alumínio revestido com uma lamina de madeira para melhor aca
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

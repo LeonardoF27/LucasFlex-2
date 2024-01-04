@@ -44,4 +44,4 @@ Uma ampla linha de tecidos decorativos e semi-blackout.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

@@ -46,4 +46,4 @@ A elegância da Persiana de Bambu é garantida através das lâminas de 50 mm, p
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

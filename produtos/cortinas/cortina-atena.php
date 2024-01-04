@@ -44,4 +44,4 @@ Quatro opções de cores.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

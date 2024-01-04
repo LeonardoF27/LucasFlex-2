@@ -43,4 +43,4 @@ As lâminas são confeccionadas com dois tipos de tecidos,  opaco e translúcido
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

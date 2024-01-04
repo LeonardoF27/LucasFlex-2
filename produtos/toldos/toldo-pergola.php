@@ -1,20 +1,16 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1  class="titulos titulosCPT">Toldo Pérgola</h1>
 
-<h1>Toldo Pérgola</h1>
+<article>
 
-<p>A Pérgola é sinônimo de sofisticação e inovação. Um novo conceito de cobertura retrátil, ela possibilita a criação de novos ambientes para sua área externa que podem ser integrados à sua rotina em todas as estações do ano. Com peso médio entre 8 a 14Kg, permite a instalação em locais onde não seria possível a construção em alvenaria, como em coberturas de prédios. A pérgola pode atingir até 13 metros de largura e reduz a temperatura externa em até 10%, sendo também 100% impermeável. Sua estrutura com carros deslizantes localizados na lateral do tecido, reduzem a força exercida pelo motor, aumentando a sua vida útil.</p>
+<p class="textosCPT">A Pérgola é sinônimo de sofisticação e inovação. Um novo conceito de cobertura retrátil, ela possibilita a criação de novos ambientes para sua área externa que podem ser integrados à sua rotina em todas as estações do ano. Com peso médio entre 8 a 14Kg, permite a instalação em locais onde não seria possível a construção em alvenaria, como em coberturas de prédios. A pérgola pode atingir até 13 metros de largura e reduz a temperatura externa em até 10%, sendo também 100% impermeável. Sua estrutura com carros deslizantes localizados na lateral do tecido, reduzem a força exercida pelo motor, aumentando a sua vida útil.</p>
 
-<p><b>Indicados para ambientes:</b> Residenciais e comerciais. Ambientes externos</p>
+<p class="textosCPT"><b class="negritoCPT"><img src="../../img/local.svg" alt="" class="iconesCPT">Indicados para ambientes:</b> Residenciais e comerciais. Ambientes externos</p>
 
-<p><b>Acionamentos:</b> Motorizado.</p>
-
-<p><b>Atinge medidas:</b> Largura de 13m e avanço 6,00m.</p>
-
-<p><b>Opções de acessórios:</b> Opções de acessórios: Sensor de chuva, sol e vento.</p>
+<p class="textosCPT"><b b class="negritoCPT"><img src="../../img/control.svg" alt="" class="iconesCPT">Acionamentos:</b> Motorizado.</p>
 
 <hr>
 
@@ -45,4 +41,4 @@
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>

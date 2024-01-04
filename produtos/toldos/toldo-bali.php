@@ -43,4 +43,4 @@ Braços com medidas de 0,60 - 0,90 - 1,40 e 1,80.
 
 </main>
 
-<?php require '../../inc/rodape__inicial.php';?>
+<?php require '../../inc/rodapeCortina.php';?>
