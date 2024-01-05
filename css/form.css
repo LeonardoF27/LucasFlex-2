@@ -21,6 +21,8 @@
     margin: 5px 0 5px 0;
 }
 
+
+/* Botão dos pordutos */
 #enviar {
     width: 100px;
     height: 50px;
@@ -30,5 +32,9 @@
     color: var(--cor-letra);
     font-family: var(--fonte-principal);
     margin: 10px 0 10px 0;
+}
 
+.botaoCPT, a {
+    color: var(--cor-letra);
+    text-decoration: none;
 }
