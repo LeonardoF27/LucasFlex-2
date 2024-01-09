@@ -1,21 +1,29 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Persiana Horizontal 50mm Madeira</h1>
 
-<h1>Persiana Horizontal 50mm Madeira</h1>
+<article>
 
-<p>Todo o aconchego e beleza da textura natural estão presentes na Persiana de Madeira que também serve como isolante térmica. 
+<p class="textosCPT">Todo o aconchego e beleza da textura natural estão presentes na Persiana de Madeira que também serve como isolante térmica. 
 Com uma ampla variedade de cores, diferentes sistemas de acionamentos, alta qualidade e durabilidade é a opção ideal para projetos contemporâneos.
 Elegante, a Persiana de Madeira permite o controle da luminosidade, mantendo a privacidade com o simples movimento de suas lâminas.
 São produzidas com lâminas de 50 mm, com acabamento em cadarço ou fita. Sua tonalidade segue a tendência dos diferentes tipos de madeira, de acordo com suas variações naturais.
 Trilho superior em alumínio revestido com uma lamina de madeira para melhor acabamento. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Inclusive opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Inclusive opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -37,13 +45,7 @@ Trilho superior em alumínio revestido com uma lamina de madeira para melhor aca
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Persiana+Horizontal+50mm+Madeira">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

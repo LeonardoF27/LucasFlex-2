@@ -68,3 +68,9 @@
 .container__botao {
     display: none;
 }
+
+/*Logo LucasFlex*/
+
+.cabecalho__logo {
+    width: 150px;
+}

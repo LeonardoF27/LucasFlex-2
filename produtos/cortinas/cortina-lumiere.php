@@ -1,20 +1,28 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Lumière</h1>
 
-<h1>Cortina Lumière</h1>
+<article>
 
-<p>Em função da sua beleza e leveza, a cortina Lumiére transforma-se em um dos elementos de maior destaque nos projetos de interiores quando o assunto é sofisticação. Suas delicadas lâminas posicionadas entre tecidos transparentes podem ser reguladas em diferentes níveis, o que permite o controle perfeito da luminosidade.
+<p class="textosCPT">Em função da sua beleza e leveza, a cortina Lumiére transforma-se em um dos elementos de maior destaque nos projetos de interiores quando o assunto é sofisticação. Suas delicadas lâminas posicionadas entre tecidos transparentes podem ser reguladas em diferentes níveis, o que permite o controle perfeito da luminosidade.
 A Cortina Lumiére combina o estilo das persianas horizontais com a leveza das Cortinas Rolôs. Desta maneira, veste a janela com muita elegância, com a sensação de amplitude, graças ao efeito das suas lâminas.
 Outro diferencial é o sistema de acionamento motorizado silencioso que garante um movimento suave e regular, protegendo a estrutura da persiana e prolongando sua durabilidade.
 Seu tecido em 100% poliéster é confeccionado com tratamento antiestético, que impede o acúmulo de pó e facilita a limpeza.
 Formatos: 50 mm e 70 mm.</p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Com opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Com opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -37,9 +45,7 @@ Formatos: 50 mm e 70 mm.</p>
 
 <article>
 
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=+Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Lumi%C3%A8re">Orçamento</a>
-                 </div>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </article>
 

@@ -1,18 +1,26 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Toldo Bali</h1>
 
-<h1>Toldo Bali</h1>
+<article>
 
-<p>O Toldo Bali de fácil manuseio possui braços pivotantes que permite aberturas de 0,90 e 1,80º proporcionando maior proteção solar quando necessário. Indicado para situações de sol nascente e ponte. Dano maior proteção para o ambiente. 
+<p class="textosCPT">O Toldo Bali de fácil manuseio possui braços pivotantes que permite aberturas de 0,90 e 1,80º proporcionando maior proteção solar quando necessário. Indicado para situações de sol nascente e ponte. Dano maior proteção para o ambiente. 
 Braços com medidas de 0,60 - 0,90 - 1,40 e 1,80.
 </p>
 
-<p><b>Indicados para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicados para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamentos:</b> Manual e Motorizado e opção de motor socorro.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamentos:
+   </b> Manual e Motorizado e opção de motor socorro.
+</p>
 
 <hr>
 
@@ -33,13 +41,7 @@ Braços com medidas de 0,60 - 0,90 - 1,40 e 1,80.
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+do+Toldo+Bali">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

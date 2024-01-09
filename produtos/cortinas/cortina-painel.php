@@ -1,10 +1,10 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Painel</h1>
 
-<h1>Cortina Painel</h1>
+<article>
 
 <p>A cortina Painel tem um trilho deslizante que faz com que suas folhas deslizem suavemente por toda sua extensão. Muito utilizadas em portas balcão. Podendo servir como divisórias de ambientes internos. Com diferentes modelos de aberturas valorizando o ambiente com longa extensão. Seu acionamento é através de cordas que permite o total controle da luminosidade. 
 Modelos de Painel liso e com varetas (obrigatório o uso em tecidos blackouts).
@@ -12,9 +12,17 @@ Não possui fresta entre as folhas. No recolhimento ocupará o espaço de apenas
 Uma ampla linha de tecidos decorativos e técnicos. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual com cordão ou Bastão.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual com cordão ou Bastão.
+</p>
 
 <hr>
 
@@ -37,9 +45,7 @@ Uma ampla linha de tecidos decorativos e técnicos.
 
 <article>
 
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Rol%C3%B4+Painel">Orçamento</a>
-                 </div>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </article>
 

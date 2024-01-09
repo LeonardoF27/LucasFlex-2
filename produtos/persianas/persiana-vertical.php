@@ -1,19 +1,27 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Persiana Vertical</h1>
 
-<h1>Persiana Vertical</h1>
+<article>
 
-<p>As Persianas Verticais Amorim em PVC ou Tecido são práticas e versáteis,
+<p class="textosCPT">As Persianas Verticais Amorim em PVC ou Tecido são práticas e versáteis,
 valorizam ambientes residenciais ou comerciais e atende aos mais
 diferentes estilos de decoração.
 Possuem coleções exclusivas com ampla variedade de cores e texturas.</p>
 
-<p><b>Indicado para ambientes:</b> Residênciais e comerciais </p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residênciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada.
+</p>
 
 <hr>
 
@@ -34,13 +42,7 @@ Possuem coleções exclusivas com ampla variedade de cores e texturas.</p>
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Persiana+Vertical">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

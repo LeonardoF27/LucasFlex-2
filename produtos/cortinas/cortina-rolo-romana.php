@@ -1,19 +1,27 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Rolô Romana</h1>
 
-    <h1>Cortina Rolô Romana</h1>
+<article>
 
-    <p>A Cortina Romana tem na sua estrutura varetas (hastes), na horizontal que formam gomos. Através do seu sistema de recolhimento e corrente continua quando recolhida forma um único gomo na parte superior.  
-    Indicado para decorações modernas e sofisticadas. Dando um charme para o ambiente. 
-    Uma ampla linha de tecidos decorativos e técnicos. 
-    </p>
+<p class="textosCPT">A Cortina Romana tem na sua estrutura varetas (hastes), na horizontal que formam gomos. Através do seu sistema de recolhimento e corrente continua quando recolhida forma um único gomo na parte superior.  
+Indicado para decorações modernas e sofisticadas. Dando um charme para o ambiente. 
+Uma ampla linha de tecidos decorativos e técnicos. 
+</p>
 
-    <p><b>Indicado para ambientes:</b> Residenciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+    </b> Residenciais.
+</p>
 
-    <p><b>Acionamento:</b> Manual (Monocontrole, Plus e Easy Control) ou motorizado com opção a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+    </b> Manual (Monocontrole, Plus e Easy Control) ou motorizado com opção a bateria.
+</p>
 
     <hr>
 
@@ -34,13 +42,7 @@
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Rol%C3%B4+Romana">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

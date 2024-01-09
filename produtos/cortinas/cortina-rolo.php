@@ -1,10 +1,10 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Rolô</h1>
 
-<h1>Cortina Rolô</h1>
+<article>
 
 <p>A cortina Rolô oferece praticidade com beleza e tecnologia. Seu sistema de corrente permite que o tecido enrole totalmente num tubo superior, com aproveitando de 90% do vão da janela. Com uma ampla linha de tecidos decorativos e técnicos, como o blackout, tela solar. Que tem como principais características:
 O blackout que veda 100% a claridade. 

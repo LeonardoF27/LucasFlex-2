@@ -1,19 +1,26 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Vert Gliss</h1>
 
-<h1>Cortina Vert Gliss</h1>
+<article>
 
-<p>A Cortina Vert Gliss é ideal para projetos contemporâneos. Ideal para divisão de ambientes e porta balcão oferece conforto acústico e térmico. Devido ao seu tecido duplo que forma colchoes de ar. 
+<p class="textosCPT">A Cortina Vert Gliss é ideal para projetos contemporâneos. Ideal para divisão de ambientes e porta balcão oferece conforto acústico e térmico. Devido ao seu tecido duplo que forma colchoes de ar. 
 Oferece tecido translúcido e blackout que da maior privacidade para o ambiente. 
 Perfis em alumínio branco com pintura eletrostática.
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual. 
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual. 
 Opção de imãs no perfil do puxador, possibilitando a fixação em outra estrutura ou na parede quando fechada.
 </p>
 
@@ -36,13 +43,7 @@ Opção de imãs no perfil do puxador, possibilitando a fixação em outra estru
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Vert+Gliss">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

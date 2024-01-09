@@ -1,18 +1,26 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Passione</h1>
 
-<h1>Cortina Passione</h1>
+<article>
 
-<p>A Cortina Passione é produzida com uma combinação de tecido translúcido e laminas opaca, com a vantagem da praticidade do acionamento de uma persiana e um resultado estético muito semelhante de uma cortina tradicional. Valoriza a luminosidade, um dos elementos que mais proporcionam bem-estar em um ambiente.
+<p class="textosCPT">A Cortina Passione é produzida com uma combinação de tecido translúcido e laminas opaca, com a vantagem da praticidade do acionamento de uma persiana e um resultado estético muito semelhante de uma cortina tradicional. Valoriza a luminosidade, um dos elementos que mais proporcionam bem-estar em um ambiente.
 Seu tecido é tecido 100% poliéster, com a combinação das lâminas verticais (opaca) e o revestimento de um leve tecido translúcido. Com isso, a cortina oferece o controle da luminosidade, privacidade e a valorização estética, deixando os ambientes mais charmosos e sofisticados.
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais.
+</p>
 
-<p><b>acionamento:</b> Manual e motorizado.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">acionamento:
+   </b> Manual e motorizado.
+</p>
 
 <hr>
 
@@ -33,13 +41,7 @@ Seu tecido é tecido 100% poliéster, com a combinação das lâminas verticais 
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Passione">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

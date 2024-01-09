@@ -1,19 +1,29 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Atena</h1>
 
-<h1>Cortina Atena</h1>
+<article>
 
-<p>A Cortina Atena é altamente decorativa, composta por fios soltos de poliéster formando uma franja que deixa a peça translucida que proporciona estilo próprio e sofisticado ao ambiente. Perfeita em grandes vãos. Podem ser aplicadas em ambientes residenciais e comerciais. Excelente opção para dividir ambientes, limitando espaços, vitrine de lojas e ateliês sem perder a integração entre os ambientes. 
+<p class="textosCPT">A Cortina Atena é altamente decorativa, composta por fios soltos de poliéster formando uma franja que deixa a peça translucida que proporciona estilo próprio e sofisticado ao ambiente. Perfeita em grandes vãos. Podem ser aplicadas em ambientes residenciais e comerciais. Excelente opção para dividir ambientes, limitando espaços, vitrine de lojas e ateliês sem perder a integração entre os ambientes. 
 Pode ser produzida no modelo Wave ou Painel.
 Quatro opções de cores. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b>
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">
+   Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamentos:</b> Manual e motorizado.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">
+   Acionamentos:
+   </b> Manual e motorizado.
+</p>
 
 <hr>
 
@@ -34,13 +44,7 @@ Quatro opções de cores.
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Atena">Orçamento</a>
-                 </div>
-
-</article>
+   <div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

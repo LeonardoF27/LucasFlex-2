@@ -39,7 +39,7 @@
 
 </label>
 
-<h1 class="cabeçalho__logo">Lucas Flex</h1>
+<h2><img src="../../img/lucasflex-2024 (1).svg" alt=""  class="cabecalho__logo"></h2>
 
 <ul class="cabeçalho__lista">
 

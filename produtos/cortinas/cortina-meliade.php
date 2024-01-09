@@ -1,18 +1,26 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Melíade</h1>
 
-<h1>Cortina Melíade</h1>
+<article>
 
-<p>A cortina Melíade proporciona leveza e sofisticação aos ambientes. Possui delicadas lâminas de tecido que refletem a luz ultravioleta, impedindo que a claridade entre no ambiente, proporcionando privacidade.  
+<p class="textosCPT">A cortina Melíade proporciona leveza e sofisticação aos ambientes. Possui delicadas lâminas de tecido que refletem a luz ultravioleta, impedindo que a claridade entre no ambiente, proporcionando privacidade.  
 As lâminas são confeccionadas com dois tipos de tecidos,  opaco e translúcidos que com a movimentação é possível controlar a luminosidade. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Com opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Com opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -35,9 +43,7 @@ As lâminas são confeccionadas com dois tipos de tecidos,  opaco e translúcido
 
 <article>
 
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Mel%C3%ADade">Orçamento</a>
-                 </div>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </article>
 

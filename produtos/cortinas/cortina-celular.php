@@ -1,20 +1,30 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Celular</h1>
 
-<h1>Cortina Celular</h1>
+<article>
 
-<p>Além de ser muito elegante, a cortina celular é produzida com tecido duplo em forma de colmeia, que cria colchoes de ar que proporciona o conforto térmico, acústico, protege contra os raios Uv e suas opções de aberturas são suas principais características. 
+<p class="textosCPT">Além de ser muito elegante, a cortina celular é produzida com tecido duplo em forma de colmeia, que cria colchoes de ar que proporciona o conforto térmico, acústico, protege contra os raios Uv e suas opções de aberturas são suas principais características. 
 Indicada para todos os estilos de projetos, dos clássicos aos modernos. 
 Devido sua estrutura permite atender vários modelos de janelas com vários tipos de aberturas e recolhimentos. 
 Formatos de células de 25 e 38 mm. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+         <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">
+         Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p>Acionamentos:<b></b> Standard (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down), lateral (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down) e Motorizada.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">
+      Acionamentos:
+   </b> Standard (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down), lateral (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down) e Motorizada.
+</p>
 
 <hr>
 
@@ -35,13 +45,7 @@ Formatos de células de 25 e 38 mm.
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Celular">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

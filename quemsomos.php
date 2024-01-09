@@ -19,7 +19,9 @@
 
 <h3 class="quemsomos__lucasClean-subtitulo">Conheça um pouco mais</h3>
 
-<p class="quemsomos__textos"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam voluptates temporibus, debitis repudiandae nam eligendi dolor nisi cumque unde fugit itaque quas delectus libero aspernatur ipsa ab quod vitae. Aspernatur.</p>
+<p class="quemsomos__textos"> LUCASFLEX CLEAN, que visa à saúde do seu lar. 
+
+Cuidamos da manutenção, lavagem e higienização minuciosa das suas cortinas, persianas e tapetes.</p>
 
 <img src="" alt="Futura imagem da lucasFlex Claen" class="quemsomos__lucasClean-img">
 

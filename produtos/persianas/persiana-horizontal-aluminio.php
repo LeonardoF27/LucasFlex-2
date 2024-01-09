@@ -1,20 +1,28 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Persiana Horizontal Alumínio</h1>
 
-<h1>Persiana Horizontal Alumínio</h1>
+<article>
 
-<p>Extremamente funcional, a Persiana em Alumínio é indicada para espaços residenciais e comerciais. Versátil, pode ser utilizada nos mais diversos estilos de projetos, dos modernos aos clássicos.
+<p class="textosCPT">Extremamente funcional, a Persiana em Alumínio é indicada para espaços residenciais e comerciais. Versátil, pode ser utilizada nos mais diversos estilos de projetos, dos modernos aos clássicos.
 Lâminas de 16 mm, 25 mm ou 50 mm.
 Versões lisa ou perfurada. Em comum, oferecem controle da luminosidade e mantém a privacidade.
 </p>
 
 
-<p><b>Indicado para ambientes:</b> Residênciais e comerciais </p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residênciais e comerciais 
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Inclusive opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Inclusive opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -36,13 +44,7 @@ Versões lisa ou perfurada. Em comum, oferecem controle da luminosidade e manté
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Persiana+Horizontal+Alum%C3%ADnio">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

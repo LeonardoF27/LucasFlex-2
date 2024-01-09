@@ -1,19 +1,27 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Illuminê</h1>
 
-<h1>Cortina Illuminê</h1>
+<article>
 
-<p>A Cortina Illuminê é uma opção elegante e moderna. Proporciona movimento, controle da luminosidade no ambiente e também oferece privacidade e conforto. Entre seus principais diferenciais está à criação de ondulações no tecido, proporcionada pelo acionamento com o auxilio de discretos cordões.
+<p class="textosCPT">A Cortina Illuminê é uma opção elegante e moderna. Proporciona movimento, controle da luminosidade no ambiente e também oferece privacidade e conforto. Entre seus principais diferenciais está à criação de ondulações no tecido, proporcionada pelo acionamento com o auxilio de discretos cordões.
 O efeito sofisticado deve-se ao seu tecido em 100% poliéster, com trama translúcida e transparente.
 O bandô possui base em alumínio com pintura eletrostática
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais.
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Com opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Com opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -36,9 +44,7 @@ O bandô possui base em alumínio com pintura eletrostática
 
 <article>
 
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Illumin%C3%AA">Orçamento</a>
-                 </div>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </article>
 

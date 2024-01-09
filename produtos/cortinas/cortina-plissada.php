@@ -1,19 +1,27 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Cortina Plissada</h1>
 
-<h1>Cortina Plissada</h1>
+<article>
 
-<p>A Cortina Plissada além de ser leve e discreta tem como sua principal característica a estrutura do seu tecido, o efeito sanfona. Isso permite que a peça consiga atender projetos especiais. Permitindo trabalhar com vários tipos de abertura e recolhimento. 
+<p class="textosCPT">A Cortina Plissada além de ser leve e discreta tem como sua principal característica a estrutura do seu tecido, o efeito sanfona. Isso permite que a peça consiga atender projetos especiais. Permitindo trabalhar com vários tipos de abertura e recolhimento. 
 Quando recolhida ocupa o mínimo de espaço possibilitando a instalação dentro do  vão deixando o mínimo de fresta nas laterais. 
 Uma ampla linha de tecidos decorativos e semi-blackout. 
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamentos:</b> Standard (Padrão, Top Down, Botom Up / Top Down, Sun Up/ Sun Down), lateral (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down) e Motorizada, inclusive a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamentos:
+   </b> Standard (Padrão, Top Down, Botom Up / Top Down, Sun Up/ Sun Down), lateral (Padrão, Top Down, Botom Up/ Top Down, Sun Up/ Sun Down) e Motorizada, inclusive a bateria.
+</p>
 
 <hr>
 
@@ -34,13 +42,7 @@ Uma ampla linha de tecidos decorativos e semi-blackout.
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Cortina+Plissada">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 

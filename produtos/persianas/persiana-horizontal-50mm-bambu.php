@@ -1,20 +1,28 @@
 <?php require '../../inc/cabecalhoCortina.php';?>
 
-<main>
+<main class="centraliza">
 
-<article id="AjusteDePaginas">
+<h1 class="titulos titulosCPT">Persiana Horizontal 50mm Bambu</h1>
 
-<h1>Persiana Horizontal 50mm Bambu</h1>
+<article>
 
-<p>Contemporânea e natural a Persiana Horizontal de Bambu é ecologicamente correta e oferece um perfeito controle da luminosidade aproveitando o recurso natural da luz do sol. Muito semelhante à persiana de madeira, oferece aos projetos um tom mais rústico, além de ser muito prática e funcional.
+<p class="textosCPT">Contemporânea e natural a Persiana Horizontal de Bambu é ecologicamente correta e oferece um perfeito controle da luminosidade aproveitando o recurso natural da luz do sol. Muito semelhante à persiana de madeira, oferece aos projetos um tom mais rústico, além de ser muito prática e funcional.
 
 A elegância da Persiana de Bambu é garantida através das lâminas de 50 mm, pela diversidade de cores, cordões e fitas em 100% poliéster, trilho superior em alumínio, revestido com uma lamina em bambu para melhor acabamento.
 É a opção mais leve entre madeira e madeira sintética.
 </p>
 
-<p><b>Indicado para ambientes:</b> Residenciais e comerciais.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT">
+      <img src="../../img/local.svg" alt="icone preto de uma imagem" class="iconesCPT">Indicado para ambientes:
+   </b> Residenciais e comerciais.
+</p>
 
-<p><b>Acionamento:</b> Manual e motorizada. Inclusive opção de motor a bateria.</p>
+<p class="textosCPT topicosCPT">
+   <b class="negritoCPT topicosCPT">
+      <img src="../../img/control.svg" alt="icone preto cotrole" class="iconesCPT">Acionamento:
+   </b> Manual e motorizada. Inclusive opção de motor a bateria.
+</p>
 
 <hr>
 
@@ -36,13 +44,7 @@ A elegância da Persiana de Bambu é garantida através das lâminas de 50 mm, p
 
 </article>
 
-<article>
-
-                 <div id="Orcamento">
-                    <a href="https://wa.me/5511968583511?text=Ol%C3%A1+Ursula%2C+meu+%28%2ASeu+nome%29+gostaria+de+fazer+or%C3%A7amento+da+Persiana+Horizontal+50mm+Bambu">Orçamento</a>
-                 </div>
-
-</article>
+<div class="botaoCPT"><a href="">Orçamento</a></div>
 
 </main>
 
